@@ -2,6 +2,7 @@
 Converts raw json data to go structures
 ## Roadmap
 - [x] Read data from variables and save structs to ./structs.go
+- [x] Normalize field's names
 - [x] Read and write primitive types
 - [x] Read and write slices of primitive types
 - [x] Read and write structs into the other structs
